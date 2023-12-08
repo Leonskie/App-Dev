@@ -3,7 +3,7 @@ My first repository.
 
 # My Favorite Movie
 
-1. **Avengers**([as](https://github.com/Leonskie/App-Dev/assets/153279144/b93bea63-1de9-4176-8921-f0c3c185ff68)
+1. **Avengers**![as](https://github.com/Leonskie/App-Dev/assets/153279144/b93bea63-1de9-4176-8921-f0c3c185ff68)
    
 3. **The Maze Runner**([mr](https://github.com/Leonskie/App-Dev/assets/153279144/42c8de4a-10ce-442e-8417-e5d1dc5452e4)
    
