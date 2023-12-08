@@ -3,12 +3,12 @@ My first repository.
 
 # My Favorite Movie
 
-1. **Avengers**![as](https://github.com/Leonskie/App-Dev/assets/153279144/b93bea63-1de9-4176-8921-f0c3c185ff68)
+1. **Avengers**![as](https://github.com/Leonskie/App-Dev/assets/153279144/2a719d40-6821-48bc-a289-f1c7b3a98bb3)
    
-3. **The Maze Runner**([mr](https://github.com/Leonskie/App-Dev/assets/153279144/42c8de4a-10ce-442e-8417-e5d1dc5452e4)
+3. **The Maze Runner**![mr](https://github.com/Leonskie/App-Dev/assets/153279144/fe6b230a-0db7-4ff2-b44c-54ca3fab9fa5)
    
-4. **Hunger Games**([hg](https://github.com/Leonskie/App-Dev/assets/153279144/761acdc6-d1ae-4004-9e50-07e49e98d2dc)
+4. **Hunger Games**![hg](https://github.com/Leonskie/App-Dev/assets/153279144/d6ed581e-d9e0-4396-9470-763d9631f88f)
    
-5. **Hacksaw Ridge**([hsr](https://github.com/Leonskie/App-Dev/assets/153279144/0faf79a5-bdc0-4bc4-bff2-d1c7ec2178db)
+5. **Hacksaw Ridge**![hsr](https://github.com/Leonskie/App-Dev/assets/153279144/14e49240-7428-4246-af6d-d55d6385b45f)
 
-6. **John Wick**([jw](https://github.com/Leonskie/App-Dev/assets/153279144/702cda15-88ee-4a41-84f1-e2be60dfffb6)
+6. **John Wick**![jw](https://github.com/Leonskie/App-Dev/assets/153279144/2f814abd-4576-4a94-95c9-34ba7fd001b7)
